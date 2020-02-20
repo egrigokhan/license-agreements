@@ -39,3 +39,59 @@ property misappropriation, impersonation, unlawful conduct, or harassment.
 ********Information regarding specific policies and the process for reporting or appealing
 violations can be found in our Help Center (https://help.twitter.com/en/rules-andpolicies/twitter-report-violation#specific-violations and https://help.twitter.com/en/
 managing-your-account/suspended-twitter-accounts).********
+
+********If you believe that your Content has been copied in a way that constitutes
+copyright infringement, please report this by visiting our Copyright reporting
+form (https://help.twitter.com/forms/dmca) or contacting our designated copyright
+agent at:
+Twitter, Inc.
+Attn: Copyright Agent
+1355 Market Street, Suite 900
+San Francisco, CA 94103
+Reports: https://help.twitter.com/forms/dmca
+Email: copyright@twitter.com
+(for content on Twitter)
+Twitter, Inc.
+Attn: Copyright Agent - Periscope
+1355 Market Street, Suite 900
+San Francisco, CA 94103
+Reports: https://help.twitter.com/forms/dmca
+Email: copyright@pscp.tv
+(for content on Periscope)********
+
+### Your Rights and Grant of Rights in the Content
+You retain your rights to any Content you submit, post or display on or through
+the Services. What’s yours is yours — you own your Content (and your incorporated
+audio, photos and videos are considered part of the Content).
+
+By submitting, posting or displaying Content on or through the Services, you grant
+us a worldwide, non-exclusive, royalty-free license (with the right to sublicense) to
+use, copy, reproduce, process, adapt, modify, publish, transmit, display and
+distribute such Content in any and all media or distribution methods now known or
+later developed (for clarity, these rights include, for example, curating, transforming,
+and translating). This license authorizes us to make your Content available to the
+rest of the world and to let others do the same. You agree that this license includes
+the right for Intract to provide, promote, and improve the Services and to make
+Content submitted to or through the Services available to other companies,
+organizations or individuals for the syndication, broadcast, distribution, Retweet,
+promotion or publication of such Content on other media and services, subject to
+our terms and conditions for such Content use. Such additional uses by Intract, or
+other companies, organizations or individuals, is made with no compensation paid
+to you with respect to the Content that you submit, post, transmit or otherwise
+make available through the Services as the use of the Services by you is hereby
+agreed as being sufficient compensation for the Content and grant of rights herein.
+
+Intract has an evolving set of rules for how ecosystem partners can interact with
+your Content on the Services. These rules exist to enable an open ecosystem with
+your rights in mind. You understand that we may modify or adapt your Content as
+it is distributed, syndicated, published, or broadcast by us and our partners and/or
+make changes to your Content in order to adapt the Content to different media.
+
+You represent and warrant that you have, or have obtained, all rights, licenses,
+consents, permissions, power and/or authority necessary to grant the rights granted
+herein for any Content that you submit, post or display on or through the Services.
+You agree that such Content will not contain material subject to copyright or other
+proprietary rights, unless you have necessary permission or are otherwise legally
+entitled to post the material and to grant Intract the license described above.
+
+
