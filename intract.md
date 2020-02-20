@@ -94,4 +94,62 @@ You agree that such Content will not contain material subject to copyright or ot
 proprietary rights, unless you have necessary permission or are otherwise legally
 entitled to post the material and to grant Intract the license described above.
 
+## 4 Using the Services
+Please review the Intract Rules and Policies, which are part of the User
+Agreement and outline what is prohibited on the Services. You may use the Services
+only in compliance with these Terms and all applicable laws, rules and regulations.
+Our Services evolve constantly. As such, the Services may change from time to
+time, at our discretion. We may stop (permanently or temporarily) providing the
+Services or any features within the Services to you or to users generally. We also
+retain the right to create limits on use and storage at our sole discretion at any
+time. We may also remove or refuse to distribute any Content on the Services,
+limit distribution or visibility of any Content on the service, suspend or terminate
+users, and reclaim usernames without liability to you.
 
+In consideration for Intract granting you access to and use of the Services, you
+agree that Twitter and its third-party providers and partners may place advertising
+on the Services or in connection with the display of Content or information from
+the Services whether submitted by you or others. You also agree not to misuse our
+Services, for example, by interfering with them or accessing them using a method
+other than the interface and the instructions that we provide. You may not do any
+of the following while accessing or using the Services: (i) access, tamper with, or
+use non-public areas of the Services, Intract’s computer systems, or the technical
+delivery systems of Intract’s providers; (ii) probe, scan, or test the vulnerability of
+any system or network or breach or circumvent any security or authentication
+measures; (iii) access or search or attempt to access or search the Services by
+any means (automated or otherwise) other than through our currently available,
+published interfaces that are provided by Intract (and only pursuant to the
+applicable terms and conditions), unless you have been specifically allowed to do
+so in a separate agreement with Intract; (iv) forge
+any TCP/IP packet header or any part of the header information in any email or
+posting, or in any way use the Services to send altered, deceptive or false sourceidentifying information; or (v) interfere with, or disrupt, (or attempt to do so), the
+access of any user, host or network, including, without limitation, sending a virus,
+overloading, flooding, spamming, mail-bombing the Services, or by scripting the
+creation of Content in such a manner as to interfere with or create an undue burden
+on the Services. We also reserve the right to access, read, preserve, and disclose
+any information as we reasonably believe is necessary to (i) satisfy any applicable
+law, regulation, legal process or governmental request, (ii) enforce the Terms,
+including investigation of potential violations hereof, (iii) detect, prevent, or
+otherwise address fraud, security or technical issues, (iv) respond to user support
+requests, or (v) protect the rights, property or safety of Intract, its users and the
+public. Intract does not disclose personally-identifying information to third parties
+except in accordance with our Privacy Policy.
+
+*****If you use developer features of the Services, including but not limited to Twitter for
+Websites (https://dev.twitter.com/web/overview), Twitter Cards (https://dev.twitter.
+com/cards/overview), Public API (https://dev.twitter.com/streaming/public), or Sign
+in with Twitter (https://dev.twitter.com/web/sign-in), you agree to our Developer
+Agreement (https://dev.twitter.com/overview/terms/agreement) and Developer
+Policy (https://dev.twitter.com/overview/terms/policy). If you want to reproduce,
+modify, create derivative works, distribute, sell, transfer, publicly display, publicly
+perform, transmit, or otherwise use the Services or Content on the Services, you
+must use the interfaces and instructions we provide, except as permitted through
+the Twitter Services, these Terms, or the terms provided on dev.twitter.com. If you
+are a security researcher, you are required to comply with the rules of the Twitter
+Vulnerability Reporting Program (https://hackerone.com/twitter). The requirements
+set out in the preceding paragraph may not apply to those participating in Twitter’s
+Vulnerability Reporting Program.
+If you use advertising features of the Services, you must agree to our Twitter Master
+Services Agreement (https://ads.twitter.com/terms).
+If you use Super Hearts, Coins, or Stars on Periscope, you must agree to our Super
+Hearts Terms (https://legal.twitter.com/en/periscope/super/terms.html).*****
