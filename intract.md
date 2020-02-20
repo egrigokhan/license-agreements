@@ -154,3 +154,98 @@ If you use advertising features of the Services, you must agree to our Twitter M
 Services Agreement (https://ads.twitter.com/terms).
 If you use Super Hearts, Coins, or Stars on Periscope, you must agree to our Super
 Hearts Terms (https://legal.twitter.com/en/periscope/super/terms.html).*****
+
+### Your Account
+You may need to create an account to use some of our Services. You are
+responsible for safeguarding your account, so use a strong password and limit its
+use to this account. We cannot and will not be liable for any loss or damage arising
+from your failure to comply with the above.
+
+You can control most communications from the Services. We may need to
+provide you with certain communications, such as service announcements
+and administrative messages. These communications are considered part of
+the Services and your account, and you may not be able to opt-out from receiving
+them.
+
+### Your License to Use the Services
+Intract gives you a personal, worldwide, royalty-free, non-assignable and nonexclusive license to use the software provided to you as part of the Services.
+
+This license has the sole purpose of enabling you to use and enjoy the benefit
+of the Services as provided by Intract, in the manner permitted by these Terms.
+The Services are protected by copyright, trademark, and other laws of both the
+United States and other countries. Nothing in the Terms gives you a right to use
+the Intract name or any of the Intract trademarks, logos, domain names, other
+distinctive brand features, and other proprietary rights. All right, title, and interest
+in and to the Services (excluding Content provided by users) are and will remain
+the exclusive property of Intract and its licensors. Any feedback, comments, or
+suggestions you may provide regarding Intract, or the Services is entirely voluntary
+and we will be free to use such feedback, comments or suggestions as we see fit
+and without any obligation to you.
+
+### Ending These Terms
+You may end your legal agreement with Intract at any time by deactivating your
+accounts and discontinuing your use of the Services. Contact **gokhan.egri@ug.bilkent.edu.tr** for instructions on how
+to deactivate your account and the Privacy Policy for more information on what
+happens to your information.
+
+We may suspend or terminate your account or cease providing you with all or
+part of the Services at any time for any or no reason, including, but not limited to,
+if we reasonably believe: (i) you have violated these Terms or the Intract Rules and
+Policies, (ii) you create risk or possible legal
+exposure for us; (iii) your account should be removed due to unlawful conduct,
+(iv) your account should be removed due to prolonged inactivity; or (v) our provision
+of the Services to you is no longer commercially viable. We will make reasonable
+efforts to notify you by the email address associated with your account or the next
+time you attempt to access your account, depending on the circumstances. In all
+such cases, the Terms shall terminate, including, without limitation, your license
+to use the Services, except that the following sections shall continue to apply:
+II, III, V, and VI. If you believe your account was terminated in error you can file an
+appeal by contacting **gokhan.egri@ug.bilkent.edu.tr**. For the avoidance of doubt, these Terms survive the
+deactivation or termination of your account.
+
+## 5 Disclaimers and Limitations of Liability
+
+### The Services are Available “AS-IS”
+Your access to and use of the Services or any Content are at your own risk. You
+understand and agree that the Services are provided to you on an “AS IS” and
+“AS AVAILABLE” basis. The “Intract Entities” refers to Intract<, its parents, affiliates,
+related companies, officers, directors, employees, agents, representatives, partners,
+and licensors. Without limiting the foregoing, to the maximum extent permitted
+under applicable law, THE TWITTER ENTITIES DISCLAIM ALL WARRANTIES AND
+CONDITIONS, WHETHER EXPRESS OR IMPLIED, OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT. The Intract
+Entities make no warranty or representation and disclaim all responsibility and
+liability for: (i) the completeness, accuracy, availability, timeliness, security or
+reliability of the Services or any Content; (ii) any harm to your computer system,
+loss of data, or other harm that results from your access to or use of the Services
+or any Content; (iii) the deletion of, or the failure to store or to transmit, any Content
+and other communications maintained by the Services; and (iv) whether the
+Services will meet your requirements or be available on an uninterrupted, secure,
+or error-free basis. No advice or information, whether oral or written, obtained from
+the Intract Entities or through the Services, will create any warranty or
+representation not expressly made herein.
+
+### Limitation of Liability
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE INTRACT
+ENTITIES SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL,
+CONSEQUENTIAL OR PUNITIVE DAMAGES, OR ANY LOSS OF PROFITS OR
+REVENUES, WHETHER INCURRED DIRECTLY OR INDIRECTLY, OR ANY LOSS
+OF DATA, USE, GOODWILL, OR OTHER INTANGIBLE LOSSES, RESULTING
+FROM (i) YOUR ACCESS TO OR USE OF OR INABILITY TO ACCESS OR USE
+THE SERVICES; (ii) ANY CONDUCT OR CONTENT OF ANY THIRD PARTY ON
+THE SERVICES, INCLUDING WITHOUT LIMITATION, ANY DEFAMATORY,
+OFFENSIVE OR ILLEGAL CONDUCT OF OTHER USERS OR THIRD PARTIES;
+(iii) ANY CONTENT OBTAINED FROM THE SERVICES; OR (iv) UNAUTHORIZED
+ACCESS, USE OR ALTERATION OF YOUR TRANSMISSIONS OR CONTENT. IN
+NO EVENT SHALL THE AGGREGATE LIABILITY OF THE INTRACT ENTITIES
+EXCEED THE GREATER OF ONE U.S. DOLLAR (U.S. $1.00) OR
+THE AMOUNT YOU PAID TWITTER, IF ANY, IN THE PAST SIX MONTHS FOR
+THE SERVICES GIVING RISE TO THE CLAIM. THE LIMITATIONS OF THIS
+SUBSECTION SHALL APPLY TO ANY THEORY OF LIABILITY, WHETHER BASED
+ON WARRANTY, CONTRACT, STATUTE, TORT (INCLUDING NEGLIGENCE) OR
+OTHERWISE, AND WHETHER OR NOT THE INTRACT ENTITIES HAVE BEEN
+INFORMED OF THE POSSIBILITY OF ANY SUCH DAMAGE, AND EVEN IF
+A REMEDY SET FORTH HEREIN IS FOUND TO HAVE FAILED OF ITS ESSENTIAL
+PURPOSE.
+
+Effective: February 20th 2020
