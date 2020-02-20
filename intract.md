@@ -98,6 +98,7 @@ entitled to post the material and to grant Intract the license described above.
 Please review the Intract Rules and Policies, which are part of the User
 Agreement and outline what is prohibited on the Services. You may use the Services
 only in compliance with these Terms and all applicable laws, rules and regulations.
+
 Our Services evolve constantly. As such, the Services may change from time to
 time, at our discretion. We may stop (permanently or temporarily) providing the
 Services or any features within the Services to you or to users generally. We also
