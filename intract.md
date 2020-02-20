@@ -37,25 +37,25 @@ We reserve the right to remove Content that violates the User Agreement,
 including for example, copyright or trademark violations or other intellectual
 property misappropriation, impersonation, unlawful conduct, or harassment.
 ********Information regarding specific policies and the process for reporting or appealing
-violations can be found in our Help Center (https://help.twitter.com/en/rules-andpolicies/twitter-report-violation#specific-violations and https://help.twitter.com/en/
-managing-your-account/suspended-twitter-accounts).********
+violations can be found in our Help Center (https://help.Intract.com/en/rules-andpolicies/Intract-report-violation#specific-violations and https://help.Intract.com/en/
+managing-your-account/suspended-Intract-accounts).********
 
 ********If you believe that your Content has been copied in a way that constitutes
 copyright infringement, please report this by visiting our Copyright reporting
-form (https://help.twitter.com/forms/dmca) or contacting our designated copyright
+form (https://help.Intract.com/forms/dmca) or contacting our designated copyright
 agent at:
-Twitter, Inc.
+Intract, Inc.
 Attn: Copyright Agent
 1355 Market Street, Suite 900
 San Francisco, CA 94103
-Reports: https://help.twitter.com/forms/dmca
-Email: copyright@twitter.com
-(for content on Twitter)
-Twitter, Inc.
+Reports: https://help.Intract.com/forms/dmca
+Email: copyright@Intract.com
+(for content on Intract)
+Intract, Inc.
 Attn: Copyright Agent - Periscope
 1355 Market Street, Suite 900
 San Francisco, CA 94103
-Reports: https://help.twitter.com/forms/dmca
+Reports: https://help.Intract.com/forms/dmca
 Email: copyright@pscp.tv
 (for content on Periscope)********
 
@@ -108,7 +108,7 @@ limit distribution or visibility of any Content on the service, suspend or termi
 users, and reclaim usernames without liability to you.
 
 In consideration for Intract granting you access to and use of the Services, you
-agree that Twitter and its third-party providers and partners may place advertising
+agree that Intract and its third-party providers and partners may place advertising
 on the Services or in connection with the display of Content or information from
 the Services whether submitted by you or others. You also agree not to misuse our
 Services, for example, by interfering with them or accessing them using a method
@@ -136,24 +136,24 @@ requests, or (v) protect the rights, property or safety of Intract, its users an
 public. Intract does not disclose personally-identifying information to third parties
 except in accordance with our Privacy Policy.
 
-*****If you use developer features of the Services, including but not limited to Twitter for
-Websites (https://dev.twitter.com/web/overview), Twitter Cards (https://dev.twitter.
-com/cards/overview), Public API (https://dev.twitter.com/streaming/public), or Sign
-in with Twitter (https://dev.twitter.com/web/sign-in), you agree to our Developer
-Agreement (https://dev.twitter.com/overview/terms/agreement) and Developer
-Policy (https://dev.twitter.com/overview/terms/policy). If you want to reproduce,
+*****If you use developer features of the Services, including but not limited to Intract for
+Websites (https://dev.Intract.com/web/overview), Intract Cards (https://dev.Intract.
+com/cards/overview), Public API (https://dev.Intract.com/streaming/public), or Sign
+in with Intract (https://dev.Intract.com/web/sign-in), you agree to our Developer
+Agreement (https://dev.Intract.com/overview/terms/agreement) and Developer
+Policy (https://dev.Intract.com/overview/terms/policy). If you want to reproduce,
 modify, create derivative works, distribute, sell, transfer, publicly display, publicly
 perform, transmit, or otherwise use the Services or Content on the Services, you
 must use the interfaces and instructions we provide, except as permitted through
-the Twitter Services, these Terms, or the terms provided on dev.twitter.com. If you
-are a security researcher, you are required to comply with the rules of the Twitter
-Vulnerability Reporting Program (https://hackerone.com/twitter). The requirements
-set out in the preceding paragraph may not apply to those participating in Twitter’s
+the Intract Services, these Terms, or the terms provided on dev.Intract.com. If you
+are a security researcher, you are required to comply with the rules of the Intract
+Vulnerability Reporting Program (https://hackerone.com/Intract). The requirements
+set out in the preceding paragraph may not apply to those participating in Intract’s
 Vulnerability Reporting Program.
-If you use advertising features of the Services, you must agree to our Twitter Master
-Services Agreement (https://ads.twitter.com/terms).
+If you use advertising features of the Services, you must agree to our Intract Master
+Services Agreement (https://ads.Intract.com/terms).
 If you use Super Hearts, Coins, or Stars on Periscope, you must agree to our Super
-Hearts Terms (https://legal.twitter.com/en/periscope/super/terms.html).*****
+Hearts Terms (https://legal.Intract.com/en/periscope/super/terms.html).*****
 
 ### Your Account
 You may need to create an account to use some of our Services. You are
@@ -211,7 +211,7 @@ understand and agree that the Services are provided to you on an “AS IS” and
 “AS AVAILABLE” basis. The “Intract Entities” refers to Intract<, its parents, affiliates,
 related companies, officers, directors, employees, agents, representatives, partners,
 and licensors. Without limiting the foregoing, to the maximum extent permitted
-under applicable law, THE TWITTER ENTITIES DISCLAIM ALL WARRANTIES AND
+under applicable law, THE Intract ENTITIES DISCLAIM ALL WARRANTIES AND
 CONDITIONS, WHETHER EXPRESS OR IMPLIED, OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT. The Intract
 Entities make no warranty or representation and disclaim all responsibility and
@@ -239,7 +239,7 @@ OFFENSIVE OR ILLEGAL CONDUCT OF OTHER USERS OR THIRD PARTIES;
 ACCESS, USE OR ALTERATION OF YOUR TRANSMISSIONS OR CONTENT. IN
 NO EVENT SHALL THE AGGREGATE LIABILITY OF THE INTRACT ENTITIES
 EXCEED THE GREATER OF ONE U.S. DOLLAR (U.S. $1.00) OR
-THE AMOUNT YOU PAID TWITTER, IF ANY, IN THE PAST SIX MONTHS FOR
+THE AMOUNT YOU PAID Intract, IF ANY, IN THE PAST SIX MONTHS FOR
 THE SERVICES GIVING RISE TO THE CLAIM. THE LIMITATIONS OF THIS
 SUBSECTION SHALL APPLY TO ANY THEORY OF LIABILITY, WHETHER BASED
 ON WARRANTY, CONTRACT, STATUTE, TORT (INCLUDING NEGLIGENCE) OR
