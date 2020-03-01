@@ -3,7 +3,7 @@
 ## 1. Who May Use the Services
 You may use the Services only if you agree to form a binding contract with Intract
 and are not a person barred from receiving services under the laws of the applicable
-jurisdiction. In any case, you must be at least 13 years old to use the Services. If you are accepting these Terms and
+jurisdiction. In any case, you must be at least 18 years old to use the Services. If you are accepting these Terms and
 using the Services on behalf of a company, organization, government, or other legal
 entity, you represent and warrant that you are authorized to do so and have the
 authority to bind such entity to these Terms, in which case the words “you” and
